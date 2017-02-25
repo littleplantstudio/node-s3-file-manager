@@ -1,4 +1,4 @@
-#lib/config.js
+lib/config.js
 node_modules/
 .idea
 *.DS_Store
